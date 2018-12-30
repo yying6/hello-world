@@ -79,7 +79,6 @@
 	float: left;
 	margin-top: 50px;
 	margin-bottom: 0px;
-	background-image:url(../02%20Final%20Art/group.jpg);
 	background-repeat:no-repeat;
 	line-height: 20px;
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -94,7 +93,7 @@
 	height: 350px;
 	float:left;
 	background-color:#da9286;
-	background-image: url("/static/04-headings/about-us.png");
+	background-image: url("04-headings/about-us.png");
 	background-repeat:no-repeat;
 	color: #FFF;
 }
@@ -114,7 +113,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#6c9791;
-	background-image:url(/static/04-headings/baudler.png);
+	background-image:url('04-headings/baudler.png');
 	background-repeat:no-repeat;
 }
 
@@ -133,7 +132,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#35bdb2;
-	background-image:url(/static/04-headings/bogner.png);
+	background-image:url(04-headings/bogner.png);
 	background-repeat:no-repeat;
 }
 
@@ -152,7 +151,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#85BAC1;
-	background-image:url(/static/04-headings/bunge.png);
+	background-image:url(04-headings/bunge.png);
 	background-repeat:no-repeat;
 }
 
@@ -171,7 +170,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#6c9791;
-	background-image:url(/static/04-headings/champagne.png);
+	background-image:url(04-headings/champagne.png);
 	background-repeat:no-repeat;
 }
 
@@ -190,7 +189,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#eabd3f;
-	background-image:url(/static/04-headings/clark.png);
+	background-image:url(04-headings/clark.png);
 	background-repeat:no-repeat;
 }
 
@@ -209,7 +208,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#602d59;
-	background-image:url(/static/04-headings/connell.png);
+	background-image:url(04-headings/connell.png);
 	background-repeat:no-repeat;
 }
 
@@ -228,7 +227,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#35bdb2;
-	background-image:url(/static/04-headings/craigen.png);
+	background-image:url(04-headings/craigen.png);
 	background-repeat:no-repeat;
 }
 
@@ -247,7 +246,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#85BAC1;
-	background-image:url(/static/04-headings/dilling.png);
+	background-image:url(04-headings/dilling.png);
 	background-repeat:no-repeat;
 }
 
@@ -266,7 +265,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#DA9286;
-	background-image:url(/static/04-headings/egan.png);
+	background-image:url(04-headings/egan.png);
 	background-repeat:no-repeat;
 }
 
@@ -285,7 +284,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#EABD3F;
-	background-image:url(/static/04-headings/ehrecke.png);
+	background-image:url(04-headings/ehrecke.png);
 	background-repeat:no-repeat;
 }
 
@@ -304,7 +303,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#602D59;
-	background-image:url(/static/04-headings/garces.png);
+	background-image:url(04-headings/garces.png);
 	background-repeat:no-repeat;
 }
 
@@ -323,7 +322,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#6C9791;
-	background-image:url(/static/04-headings/grinvalds.png);
+	background-image:url(04-headings/grinvalds.png);
 	background-repeat:no-repeat;
 }
 
@@ -342,7 +341,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#6C9791;
-	background-image:url(/static/04-headings/hanus.png);
+	background-image:url(04-headings/hanus.png);
 	background-repeat:no-repeat;
 }
 
@@ -361,7 +360,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#DA9286;
-	background-image:url(/static/04-headings/harvey.png);
+	background-image:url(04-headings/harvey.png);
 	background-repeat:no-repeat;
 }
 
@@ -380,7 +379,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#35BDB2;
-	background-image:url(/static/04-headings/hashemi-toroghi.png);
+	background-image:url(04-headings/hashemi-toroghi.png);
 	background-repeat:no-repeat;
 }
 
@@ -399,7 +398,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#602D59;
-	background-image:url(/static/04-headings/henson.png);
+	background-image:url(04-headings/henson.png);
 	background-repeat:no-repeat;
 }
 
@@ -418,7 +417,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#EABD3F;
-	background-image:url(/static/04-headings/heuberger.png);
+	background-image:url(04-headings/heuberger.png);
 	background-repeat:no-repeat;
 }
 
@@ -437,7 +436,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#DA9286;
-	background-image:url(/static/04-headings/hill.png);
+	background-image:url(04-headings/hill.png);
 	background-repeat:no-repeat;
 }
 
@@ -456,7 +455,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#35BDB2;
-	background-image:url(/static/04-headings/jackelen.png);
+	background-image:url(04-headings/jackelen.png);
 	background-repeat:no-repeat;
 }
 
@@ -475,7 +474,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#6C9791;
-	background-image:url(/static/04-headings/jacobson.png);
+	background-image:url(04-headings/jacobson.png);
 	background-repeat:no-repeat;
 }
 
@@ -494,7 +493,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#85BAC1;
-	background-image:url(/static/04-headings/kunvatanagarn.png);
+	background-image:url(04-headings/kunvatanagarn.png);
 	background-repeat:no-repeat;
 }
 
@@ -513,7 +512,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#DA9286;
-	background-image:url(/static/04-headings/li.png);
+	background-image:url(04-headings/li.png);
 	background-repeat:no-repeat;
 }
 
@@ -532,7 +531,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#602D59;
-	background-image:url(/static/04-headings/liu.png);
+	background-image:url(04-headings/liu.png);
 	background-repeat:no-repeat;
 }
 
@@ -551,7 +550,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#35BDB2;
-	background-image:url(/static/04-headings/mechler.png);
+	background-image:url(04-headings/mechler.png);
 	background-repeat:no-repeat;
 }
 
@@ -570,7 +569,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#EABD3F;
-	background-image:url(/static/04-headings/meyer.png);
+	background-image:url(04-headings/meyer.png);
 	background-repeat:no-repeat;
 }
 
@@ -589,7 +588,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#DA9286;
-	background-image:url(/static/04-headings/murphy.png);
+	background-image:url(04-headings/murphy.png);
 	background-repeat:no-repeat;
 }
 
@@ -608,7 +607,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#6C9791;
-	background-image:url(/static/04-headings/musselman.png);
+	background-image:url(04-headings/musselman.png);
 	background-repeat:no-repeat;
 }
 
@@ -627,7 +626,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#602D59;
-	background-image:url(/static/04-headings/ney.png);
+	background-image:url(04-headings/ney.png);
 	background-repeat:no-repeat;
 }
 
@@ -646,7 +645,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#85BAC1;
-	background-image:url(/static/04-headings/oelmann.png);
+	background-image:url(04-headings/oelmann.png);
 	background-repeat:no-repeat;
 }
 
@@ -665,7 +664,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#35BDB2;
-	background-image:url(/static/04-headings/oldenhuis.png);
+	background-image:url(04-headings/oldenhuis.png);
 	background-repeat:no-repeat;
 }
 
@@ -684,7 +683,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#A6CCCC;
-	background-image:url(/static/04-headings/quarnstrom.png);
+	background-image:url(04-headings/quarnstrom.png);
 	background-repeat:no-repeat;
 }
 
@@ -703,7 +702,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#EABD3F;
-	background-image:url(/static/04-headings/rohlf.png);
+	background-image:url(04-headings/rohlf.png);
 	background-repeat:no-repeat;
 }
 
@@ -722,7 +721,7 @@
 	float: left;
 	margin-top: 0px;
 	background-color:#DA9286;
-	background-image:url(/static/04-headings/shafer.png);
+	background-image:url(04-headings/shafer.png);
 	background-repeat:no-repeat;
 }
 
